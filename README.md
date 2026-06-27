@@ -1,5 +1,5 @@
 # ESP32-CYD-LovyanGFX-microSD
-Demo code used as an intro to CYD developement
+Demo code used as an intro to CYD developement - https://www.cloudacm.com/?p=5386
 
 The code at the bottom of this post will be provided that makes use of the display and memory card for data storage, which was built using the Arduino IDE.  The changes made to the repurposed code is the use of the SPI, FS, and SD libraries which was used in earlier ESP32-Cam posts.   In addition, the LovyanGFX library will be used to drive the display.  The firmware makes use of macros to help with the readability of the code.
 
