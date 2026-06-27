@@ -13,8 +13,12 @@ Added to the code is a function that queries the public internet address if the 
 The LovyanGFX library (https://github.com/lovyan03/LovyanGFX) is extensive and this demo is extremely simplistic with the intent to gain inroads into its functionality.  There is mention online about limitations with the CYD supporting the display, touch control, and SD card module together, see (https://github.com/AndroidCrypto/ESP32_CYD_Display_with_Touch_and_SD_Card).  For the sake of ease, touch functions will not be used in this demo.
 
 These sources were referenced in the development of this demo:
-https://github.com/lovyan03/LovyanGFX
-https://github.com/AndroidCrypto/ESP32_CYD_Display_with_Touch_and_SD_Card
-https://github.com/dazzor/photoframe/blob/main/CYDusingLovyanGFX
-https://medium.com/@androidcrypto/how-to-use-touch-and-sd-card-at-the-same-time-on-an-esp32-cheap-yellow-display-cyd-45fa55d01ffe
-https://randomnerdtutorials.com/esp32-cyd-display-touchscreen-microsd-card/
+<ul>
+  <li>https://github.com/lovyan03/LovyanGFX</li>
+  <li>https://github.com/AndroidCrypto/ESP32_CYD_Display_with_Touch_and_SD_Card</li>
+  <li>https://github.com/dazzor/photoframe/blob/main/CYDusingLovyanGFX</li>
+  <li>https://medium.com/@androidcrypto/how-to-use-touch-and-sd-card-at-the-same-time-on-an-esp32-cheap-yellow-display-cyd-45fa55d01ffe</li>
+  <li>https://randomnerdtutorials.com/esp32-cyd-display-touchscreen-microsd-card/</li>
+</ul>
+
+<img width="360" height="640" alt="CYD-Demo" src="https://github.com/user-attachments/assets/d9f03c34-62e6-45e2-a062-4aa2c8a11d88" />
